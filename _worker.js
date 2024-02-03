@@ -7,7 +7,7 @@ let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 
 let proxyIP = ['8.219.238.145'];
 
-let dohURL = 'd.adguard-dns.com'; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
+let dohURL = 'https://d.adguard-dns.com/dns-query/36ac3546'; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
 // v2board api environment variables (optional) deprecated, please use planetscale.com instead
 

@@ -822,5 +822,5 @@ function createVLESSSub(userID_Path, hostName) {
 }
 
 const cn_hostnames = [
-	'pajrul.my.id',                
+	'akarbelajarbahasa.pythonanywhere.com',                
 ];
